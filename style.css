@@ -1,0 +1,38 @@
+body{
+    background-color: orange;
+}
+
+h3{
+    font-size: 48px;
+    color: tomato;
+    font-weight: 800;
+}
+
+#btn{
+    padding: 16px 16px;
+    font-size: 24px;
+    color: white;
+    background-color: green;
+    border-radius: 12px;
+    border: 1px solid green;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin: 16px;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    cursor: pointer;
+}
+
+#div{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+    margin: 16px;
+    background-color: white;
+    cursor: pointer;
+}
